@@ -1,0 +1,26 @@
+# ninja log v5
+1	212	6784460527944279	qt6cb-7-1_autogen/timestamp	395ee52e8c50540a
+1	212	6784460527944279	qt6cb-7-1_autogen/mocs_compilation.cpp	395ee52e8c50540a
+1	212	6784460527944279	E:/Works/QT(Beginner)/build-qt6cb-7-1-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/qt6cb-7-1_autogen/timestamp	395ee52e8c50540a
+1	212	6784460527944279	E:/Works/QT(Beginner)/build-qt6cb-7-1-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/qt6cb-7-1_autogen/mocs_compilation.cpp	395ee52e8c50540a
+212	286	6784460529377415	CMakeFiles/qt6cb-7-1.dir/qt6cb-7-1_autogen/mocs_compilation.cpp.obj	92fe62863ea372ed
+215	1708	6784460543606666	CMakeFiles/qt6cb-7-1.dir/main.cpp.obj	c324293f67d1a85d
+1710	1844	6784460544939948	qt6cb-7-1.exe	12eb8ce46e4eb7a
+11	154	6784462202276504	qt6cb-7-1_autogen/timestamp	395ee52e8c50540a
+11	154	6784462202276504	qt6cb-7-1_autogen/mocs_compilation.cpp	395ee52e8c50540a
+11	154	6784462202276504	E:/Works/QT(Beginner)/build-qt6cb-7-1-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/qt6cb-7-1_autogen/timestamp	395ee52e8c50540a
+11	154	6784462202276504	E:/Works/QT(Beginner)/build-qt6cb-7-1-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/qt6cb-7-1_autogen/mocs_compilation.cpp	395ee52e8c50540a
+159	2282	6784462223538328	CMakeFiles/qt6cb-7-1.dir/main.cpp.obj	c324293f67d1a85d
+2283	2949	6784462230167107	qt6cb-7-1.exe	12eb8ce46e4eb7a
+24	266	6784462354359122	qt6cb-7-1_autogen/timestamp	395ee52e8c50540a
+24	266	6784462354359122	qt6cb-7-1_autogen/mocs_compilation.cpp	395ee52e8c50540a
+24	266	6784462354359122	E:/Works/QT(Beginner)/build-qt6cb-7-1-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/qt6cb-7-1_autogen/timestamp	395ee52e8c50540a
+24	266	6784462354359122	E:/Works/QT(Beginner)/build-qt6cb-7-1-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/qt6cb-7-1_autogen/mocs_compilation.cpp	395ee52e8c50540a
+273	2311	6784462374818083	CMakeFiles/qt6cb-7-1.dir/main.cpp.obj	c324293f67d1a85d
+2311	2492	6784462376600097	qt6cb-7-1.exe	12eb8ce46e4eb7a
+17	154	6784462603080300	qt6cb-7-1_autogen/timestamp	395ee52e8c50540a
+17	154	6784462603080300	qt6cb-7-1_autogen/mocs_compilation.cpp	395ee52e8c50540a
+17	154	6784462603080300	E:/Works/QT(Beginner)/build-qt6cb-7-1-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/qt6cb-7-1_autogen/timestamp	395ee52e8c50540a
+17	154	6784462603080300	E:/Works/QT(Beginner)/build-qt6cb-7-1-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/qt6cb-7-1_autogen/mocs_compilation.cpp	395ee52e8c50540a
+157	1960	6784462621148382	CMakeFiles/qt6cb-7-1.dir/main.cpp.obj	c324293f67d1a85d
+1960	2125	6784462622772679	qt6cb-7-1.exe	12eb8ce46e4eb7a

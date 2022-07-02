@@ -1,0 +1,14 @@
+# ninja log v5
+1	194	6783563134422584	qt5cb-4-1_autogen/timestamp	5393eb7455065d89
+1	194	6783563134422584	qt5cb-4-1_autogen/mocs_compilation.cpp	5393eb7455065d89
+1	194	6783563134422584	E:/Works/QT(Beginner)/build-qt5cb-4-1-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/qt5cb-4-1_autogen/timestamp	5393eb7455065d89
+1	194	6783563134422584	E:/Works/QT(Beginner)/build-qt5cb-4-1-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/qt5cb-4-1_autogen/mocs_compilation.cpp	5393eb7455065d89
+194	260	6783563135635635	CMakeFiles/qt5cb-4-1.dir/qt5cb-4-1_autogen/mocs_compilation.cpp.obj	7923f08136eff7d7
+197	1544	6783563148460476	CMakeFiles/qt5cb-4-1.dir/main.cpp.obj	844d99c96b2173f7
+1547	1678	6783563149776615	qt5cb-4-1.exe	bf71389f9940aeda
+9	125	6783564273303353	qt5cb-4-1_autogen/timestamp	5393eb7455065d89
+9	125	6783564273303353	qt5cb-4-1_autogen/mocs_compilation.cpp	5393eb7455065d89
+9	125	6783564273303353	E:/Works/QT(Beginner)/build-qt5cb-4-1-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/qt5cb-4-1_autogen/timestamp	5393eb7455065d89
+9	125	6783564273303353	E:/Works/QT(Beginner)/build-qt5cb-4-1-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/qt5cb-4-1_autogen/mocs_compilation.cpp	5393eb7455065d89
+130	1366	6783564285714272	CMakeFiles/qt5cb-4-1.dir/main.cpp.obj	844d99c96b2173f7
+1366	1496	6783564286993055	qt5cb-4-1.exe	bf71389f9940aeda

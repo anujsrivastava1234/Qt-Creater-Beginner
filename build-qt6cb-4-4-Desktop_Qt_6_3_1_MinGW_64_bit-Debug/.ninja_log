@@ -1,0 +1,26 @@
+# ninja log v5
+1	181	6783579659219360	qt6cb-4-4_autogen/timestamp	ae9dfcd8c0cb0286
+1	181	6783579659219360	qt6cb-4-4_autogen/mocs_compilation.cpp	ae9dfcd8c0cb0286
+1	181	6783579659219360	E:/Works/QT(Beginner)/build-qt6cb-4-4-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/qt6cb-4-4_autogen/timestamp	ae9dfcd8c0cb0286
+1	181	6783579659219360	E:/Works/QT(Beginner)/build-qt6cb-4-4-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/qt6cb-4-4_autogen/mocs_compilation.cpp	ae9dfcd8c0cb0286
+183	250	6783579660418102	CMakeFiles/qt6cb-4-4.dir/qt6cb-4-4_autogen/mocs_compilation.cpp.obj	4ce5ca98b1fbeaa0
+187	1539	6783579673312832	CMakeFiles/qt6cb-4-4.dir/main.cpp.obj	5405dd33520ea06e
+1541	1674	6783579674639109	qt6cb-4-4.exe	cafff6e96608e799
+10	127	6783580110258651	qt6cb-4-4_autogen/timestamp	ae9dfcd8c0cb0286
+10	127	6783580110258651	qt6cb-4-4_autogen/mocs_compilation.cpp	ae9dfcd8c0cb0286
+10	127	6783580110258651	E:/Works/QT(Beginner)/build-qt6cb-4-4-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/qt6cb-4-4_autogen/timestamp	ae9dfcd8c0cb0286
+10	127	6783580110258651	E:/Works/QT(Beginner)/build-qt6cb-4-4-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/qt6cb-4-4_autogen/mocs_compilation.cpp	ae9dfcd8c0cb0286
+132	1352	6783580122514428	CMakeFiles/qt6cb-4-4.dir/main.cpp.obj	5405dd33520ea06e
+1352	1486	6783580123825647	qt6cb-4-4.exe	cafff6e96608e799
+10	117	6783580432328466	qt6cb-4-4_autogen/timestamp	ae9dfcd8c0cb0286
+10	117	6783580432328466	qt6cb-4-4_autogen/mocs_compilation.cpp	ae9dfcd8c0cb0286
+10	117	6783580432328466	E:/Works/QT(Beginner)/build-qt6cb-4-4-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/qt6cb-4-4_autogen/timestamp	ae9dfcd8c0cb0286
+10	117	6783580432328466	E:/Works/QT(Beginner)/build-qt6cb-4-4-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/qt6cb-4-4_autogen/mocs_compilation.cpp	ae9dfcd8c0cb0286
+120	1365	6783580444806018	CMakeFiles/qt6cb-4-4.dir/main.cpp.obj	5405dd33520ea06e
+1365	1513	6783580446254580	qt6cb-4-4.exe	cafff6e96608e799
+9	115	6783580691145505	qt6cb-4-4_autogen/timestamp	ae9dfcd8c0cb0286
+9	115	6783580691145505	qt6cb-4-4_autogen/mocs_compilation.cpp	ae9dfcd8c0cb0286
+9	115	6783580691145505	E:/Works/QT(Beginner)/build-qt6cb-4-4-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/qt6cb-4-4_autogen/timestamp	ae9dfcd8c0cb0286
+9	115	6783580691145505	E:/Works/QT(Beginner)/build-qt6cb-4-4-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/qt6cb-4-4_autogen/mocs_compilation.cpp	ae9dfcd8c0cb0286
+118	1329	6783580703288518	CMakeFiles/qt6cb-4-4.dir/main.cpp.obj	5405dd33520ea06e
+1330	1458	6783580704540755	qt6cb-4-4.exe	cafff6e96608e799

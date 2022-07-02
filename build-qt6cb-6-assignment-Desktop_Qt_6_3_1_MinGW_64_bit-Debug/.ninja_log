@@ -1,0 +1,20 @@
+# ninja log v5
+1	229	6784455651678539	qt6cb-6-assignment_autogen/timestamp	a6e2aa0348fe65a6
+1	229	6784455651678539	qt6cb-6-assignment_autogen/mocs_compilation.cpp	a6e2aa0348fe65a6
+1	229	6784455651678539	E:/Works/QT(Beginner)/build-qt6cb-6-assignment-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/qt6cb-6-assignment_autogen/timestamp	a6e2aa0348fe65a6
+1	229	6784455651678539	E:/Works/QT(Beginner)/build-qt6cb-6-assignment-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/qt6cb-6-assignment_autogen/mocs_compilation.cpp	a6e2aa0348fe65a6
+230	319	6784455653341885	CMakeFiles/qt6cb-6-assignment.dir/qt6cb-6-assignment_autogen/mocs_compilation.cpp.obj	dc932b8db73b967
+234	2212	6784455672236628	CMakeFiles/qt6cb-6-assignment.dir/main.cpp.obj	aaa51a9aee610b3f
+2216	2424	6784455674333274	qt6cb-6-assignment.exe	76cafe48b5bd17ac
+11	134	6784455885799195	qt6cb-6-assignment_autogen/timestamp	a6e2aa0348fe65a6
+11	134	6784455885799195	qt6cb-6-assignment_autogen/mocs_compilation.cpp	a6e2aa0348fe65a6
+11	134	6784455885799195	E:/Works/QT(Beginner)/build-qt6cb-6-assignment-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/qt6cb-6-assignment_autogen/timestamp	a6e2aa0348fe65a6
+11	134	6784455885799195	E:/Works/QT(Beginner)/build-qt6cb-6-assignment-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/qt6cb-6-assignment_autogen/mocs_compilation.cpp	a6e2aa0348fe65a6
+137	1599	6784455900455917	CMakeFiles/qt6cb-6-assignment.dir/main.cpp.obj	aaa51a9aee610b3f
+1600	1740	6784455901841705	qt6cb-6-assignment.exe	76cafe48b5bd17ac
+10	120	6784456012818945	qt6cb-6-assignment_autogen/timestamp	a6e2aa0348fe65a6
+10	120	6784456012818945	qt6cb-6-assignment_autogen/mocs_compilation.cpp	a6e2aa0348fe65a6
+10	120	6784456012818945	E:/Works/QT(Beginner)/build-qt6cb-6-assignment-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/qt6cb-6-assignment_autogen/timestamp	a6e2aa0348fe65a6
+10	120	6784456012818945	E:/Works/QT(Beginner)/build-qt6cb-6-assignment-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/qt6cb-6-assignment_autogen/mocs_compilation.cpp	a6e2aa0348fe65a6
+123	1532	6784456026963432	CMakeFiles/qt6cb-6-assignment.dir/main.cpp.obj	aaa51a9aee610b3f
+1533	1671	6784456028326163	qt6cb-6-assignment.exe	76cafe48b5bd17ac

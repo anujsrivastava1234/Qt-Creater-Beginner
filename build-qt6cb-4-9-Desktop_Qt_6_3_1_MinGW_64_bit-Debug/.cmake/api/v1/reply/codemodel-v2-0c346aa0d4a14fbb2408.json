@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "qt6cb-4-9",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "qt6cb-4-9::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-qt6cb-4-9-Debug-c098389eed2d50291f90.json",
+					"name" : "qt6cb-4-9",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "qt6cb-4-9_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-qt6cb-4-9_autogen-Debug-f94029a4f1d32ff8f35b.json",
+					"name" : "qt6cb-4-9_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "qt6cb-4-9_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-qt6cb-4-9_autogen_timestamp_deps-Debug-f9d38bd3a5bea4eea262.json",
+					"name" : "qt6cb-4-9_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/Works/QT(Beginner)/build-qt6cb-4-9-Desktop_Qt_6_3_1_MinGW_64_bit-Debug",
+		"source" : "E:/Works/QT(Beginner)/qt6cb-4-9"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
