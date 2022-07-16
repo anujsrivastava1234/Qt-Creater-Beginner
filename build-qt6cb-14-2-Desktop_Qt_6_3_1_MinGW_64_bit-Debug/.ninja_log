@@ -1,0 +1,26 @@
+# ninja log v5
+0	188	6794232803070693	qt6cb-14-2_autogen/timestamp	2bb2ae7c12c0ddec
+0	188	6794232803070693	qt6cb-14-2_autogen/mocs_compilation.cpp	2bb2ae7c12c0ddec
+0	188	6794232803070693	E:/Works/QT(Beginner)/build-qt6cb-14-2-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/qt6cb-14-2_autogen/timestamp	2bb2ae7c12c0ddec
+0	188	6794232803070693	E:/Works/QT(Beginner)/build-qt6cb-14-2-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/qt6cb-14-2_autogen/mocs_compilation.cpp	2bb2ae7c12c0ddec
+189	260	6794232804434612	CMakeFiles/qt6cb-14-2.dir/qt6cb-14-2_autogen/mocs_compilation.cpp.obj	1b68c205da43a979
+191	1402	6794232815851423	CMakeFiles/qt6cb-14-2.dir/main.cpp.obj	f0948ad7bffe8f88
+1405	1540	6794232817200677	qt6cb-14-2.exe	9d4734447172d900
+11	143	6794233082430280	qt6cb-14-2_autogen/timestamp	2bb2ae7c12c0ddec
+11	143	6794233082430280	qt6cb-14-2_autogen/mocs_compilation.cpp	2bb2ae7c12c0ddec
+11	143	6794233082430280	E:/Works/QT(Beginner)/build-qt6cb-14-2-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/qt6cb-14-2_autogen/timestamp	2bb2ae7c12c0ddec
+11	143	6794233082430280	E:/Works/QT(Beginner)/build-qt6cb-14-2-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/qt6cb-14-2_autogen/mocs_compilation.cpp	2bb2ae7c12c0ddec
+146	1570	6794233096703920	CMakeFiles/qt6cb-14-2.dir/main.cpp.obj	f0948ad7bffe8f88
+1571	1738	6794233098343105	qt6cb-14-2.exe	9d4734447172d900
+12	118	6794233280599862	qt6cb-14-2_autogen/timestamp	2bb2ae7c12c0ddec
+12	118	6794233280599862	qt6cb-14-2_autogen/mocs_compilation.cpp	2bb2ae7c12c0ddec
+12	118	6794233280599862	E:/Works/QT(Beginner)/build-qt6cb-14-2-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/qt6cb-14-2_autogen/timestamp	2bb2ae7c12c0ddec
+12	118	6794233280599862	E:/Works/QT(Beginner)/build-qt6cb-14-2-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/qt6cb-14-2_autogen/mocs_compilation.cpp	2bb2ae7c12c0ddec
+121	1216	6794233291587914	CMakeFiles/qt6cb-14-2.dir/main.cpp.obj	f0948ad7bffe8f88
+1216	1336	6794233292752181	qt6cb-14-2.exe	9d4734447172d900
+11	120	6794233417015313	qt6cb-14-2_autogen/timestamp	2bb2ae7c12c0ddec
+11	120	6794233417015313	qt6cb-14-2_autogen/mocs_compilation.cpp	2bb2ae7c12c0ddec
+11	120	6794233417015313	E:/Works/QT(Beginner)/build-qt6cb-14-2-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/qt6cb-14-2_autogen/timestamp	2bb2ae7c12c0ddec
+11	120	6794233417015313	E:/Works/QT(Beginner)/build-qt6cb-14-2-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/qt6cb-14-2_autogen/mocs_compilation.cpp	2bb2ae7c12c0ddec
+123	1473	6794233430547210	CMakeFiles/qt6cb-14-2.dir/main.cpp.obj	f0948ad7bffe8f88
+1474	1628	6794233432068538	qt6cb-14-2.exe	9d4734447172d900

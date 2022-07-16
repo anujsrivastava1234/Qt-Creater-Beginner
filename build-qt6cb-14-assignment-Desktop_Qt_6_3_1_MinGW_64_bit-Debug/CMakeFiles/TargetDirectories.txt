@@ -1,0 +1,5 @@
+E:/Works/QT(Beginner)/build-qt6cb-14-assignment-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/CMakeFiles/qt6cb-14-assignment.dir
+E:/Works/QT(Beginner)/build-qt6cb-14-assignment-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+E:/Works/QT(Beginner)/build-qt6cb-14-assignment-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+E:/Works/QT(Beginner)/build-qt6cb-14-assignment-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/CMakeFiles/qt6cb-14-assignment_autogen_timestamp_deps.dir
+E:/Works/QT(Beginner)/build-qt6cb-14-assignment-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/CMakeFiles/qt6cb-14-assignment_autogen.dir

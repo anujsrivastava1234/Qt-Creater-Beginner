@@ -1,0 +1,24 @@
+# ninja log v5
+2	2483	6792168569678811	qt6cb-11-1_autogen/timestamp	f1de2faca0c6f52c
+2	2483	6792168569678811	qt6cb-11-1_autogen/mocs_compilation.cpp	f1de2faca0c6f52c
+2	2483	6792168569678811	E:/Works/QT(Beginner)/build-qt6cb-11-1-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/qt6cb-11-1_autogen/timestamp	f1de2faca0c6f52c
+2	2483	6792168569678811	E:/Works/QT(Beginner)/build-qt6cb-11-1-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/qt6cb-11-1_autogen/mocs_compilation.cpp	f1de2faca0c6f52c
+2501	7491	6792168623272116	CMakeFiles/qt6cb-11-1.dir/source.cpp.obj	ac1b55061b1449e3
+2485	7618	6792168624582847	CMakeFiles/qt6cb-11-1.dir/main.cpp.obj	8a0b77778efd5972
+2506	7622	6792168624816523	CMakeFiles/qt6cb-11-1.dir/destination.cpp.obj	e3b64826227fc35d
+2495	7688	6792168625467373	CMakeFiles/qt6cb-11-1.dir/qt6cb-11-1_autogen/mocs_compilation.cpp.obj	27d144289b4f4e02
+7689	8180	6792168630338080	qt6cb-11-1.exe	272439a57743bf3d
+13	287	6792169174495651	qt6cb-11-1_autogen/timestamp	f1de2faca0c6f52c
+13	287	6792169174495651	qt6cb-11-1_autogen/mocs_compilation.cpp	f1de2faca0c6f52c
+13	287	6792169174495651	E:/Works/QT(Beginner)/build-qt6cb-11-1-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/qt6cb-11-1_autogen/timestamp	f1de2faca0c6f52c
+13	287	6792169174495651	E:/Works/QT(Beginner)/build-qt6cb-11-1-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/qt6cb-11-1_autogen/mocs_compilation.cpp	f1de2faca0c6f52c
+297	2028	6792169191906898	CMakeFiles/qt6cb-11-1.dir/main.cpp.obj	8a0b77778efd5972
+2029	2250	6792169194092405	qt6cb-11-1.exe	272439a57743bf3d
+15	1217	6792173992311135	qt6cb-11-1_autogen/timestamp	f1de2faca0c6f52c
+15	1217	6792173992311135	qt6cb-11-1_autogen/mocs_compilation.cpp	f1de2faca0c6f52c
+15	1217	6792173992311135	E:/Works/QT(Beginner)/build-qt6cb-11-1-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/qt6cb-11-1_autogen/timestamp	f1de2faca0c6f52c
+15	1217	6792173992311135	E:/Works/QT(Beginner)/build-qt6cb-11-1-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/qt6cb-11-1_autogen/mocs_compilation.cpp	f1de2faca0c6f52c
+1227	3822	6792174019959536	CMakeFiles/qt6cb-11-1.dir/destination.cpp.obj	e3b64826227fc35d
+1217	3968	6792174021412783	CMakeFiles/qt6cb-11-1.dir/main.cpp.obj	8a0b77778efd5972
+1223	3995	6792174021692053	CMakeFiles/qt6cb-11-1.dir/qt6cb-11-1_autogen/mocs_compilation.cpp.obj	27d144289b4f4e02
+3996	4299	6792174024690097	qt6cb-11-1.exe	272439a57743bf3d

@@ -1,0 +1,16 @@
+# ninja log v5
+1	1116	6792447184298471	qt6cb-11-assignment_autogen/timestamp	8361869831411a2c
+1	1116	6792447184298471	qt6cb-11-assignment_autogen/mocs_compilation.cpp	8361869831411a2c
+1	1116	6792447184298471	E:/Works/QT(Beginner)/build-qt6cb-11-assignment-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/qt6cb-11-assignment_autogen/timestamp	8361869831411a2c
+1	1116	6792447184298471	E:/Works/QT(Beginner)/build-qt6cb-11-assignment-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/qt6cb-11-assignment_autogen/mocs_compilation.cpp	8361869831411a2c
+1121	3444	6792447208923246	CMakeFiles/qt6cb-11-assignment.dir/test.cpp.obj	7242143223fafb33
+1126	3701	6792447211636200	CMakeFiles/qt6cb-11-assignment.dir/monitor.cpp.obj	6672f7bcbdafc5ce
+1119	3744	6792447212102010	CMakeFiles/qt6cb-11-assignment.dir/qt6cb-11-assignment_autogen/mocs_compilation.cpp.obj	f9989a1476931fb9
+1129	3750	6792447212145909	CMakeFiles/qt6cb-11-assignment.dir/main.cpp.obj	cf3ae7fe4ffc4c4c
+3751	3997	6792447214649689	qt6cb-11-assignment.exe	b778fffadf4d31c4
+9	396	6792447719922101	qt6cb-11-assignment_autogen/timestamp	8361869831411a2c
+9	396	6792447719922101	qt6cb-11-assignment_autogen/mocs_compilation.cpp	8361869831411a2c
+9	396	6792447719922101	E:/Works/QT(Beginner)/build-qt6cb-11-assignment-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/qt6cb-11-assignment_autogen/timestamp	8361869831411a2c
+9	396	6792447719922101	E:/Works/QT(Beginner)/build-qt6cb-11-assignment-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/qt6cb-11-assignment_autogen/mocs_compilation.cpp	8361869831411a2c
+410	2918	6792447745129305	CMakeFiles/qt6cb-11-assignment.dir/main.cpp.obj	cf3ae7fe4ffc4c4c
+2918	3158	6792447747508024	qt6cb-11-assignment.exe	b778fffadf4d31c4

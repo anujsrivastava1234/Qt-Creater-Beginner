@@ -1,0 +1,16 @@
+# ninja log v5
+4	1567	6791316530331462	build.ninja	df8e2f0baaf13bfc
+2	3185	6791316554756786	qt6cb-9-5_autogen/timestamp	a7b4fe800d37526c
+2	3185	6791316554756786	qt6cb-9-5_autogen/mocs_compilation.cpp	a7b4fe800d37526c
+2	3185	6791316554756786	E:/Works/QT(Beginner)/build-qt6cb-9-5-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/qt6cb-9-5_autogen/timestamp	a7b4fe800d37526c
+2	3185	6791316554756786	E:/Works/QT(Beginner)/build-qt6cb-9-5-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/qt6cb-9-5_autogen/mocs_compilation.cpp	a7b4fe800d37526c
+3190	6696	6791316592824191	CMakeFiles/qt6cb-9-5.dir/main.cpp.obj	f676002b87795002
+3185	6950	6791316595374714	CMakeFiles/qt6cb-9-5.dir/qt6cb-9-5_autogen/mocs_compilation.cpp.obj	dbe20bc460b3c262
+3193	7021	6791316596079129	CMakeFiles/qt6cb-9-5.dir/test.cpp.obj	ee00f7f17a773e45
+7021	7326	6791316599044973	qt6cb-9-5.exe	fb126e28dde3f2e
+14	194	6791316978213249	qt6cb-9-5_autogen/timestamp	a7b4fe800d37526c
+14	194	6791316978213249	qt6cb-9-5_autogen/mocs_compilation.cpp	a7b4fe800d37526c
+14	194	6791316978213249	E:/Works/QT(Beginner)/build-qt6cb-9-5-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/qt6cb-9-5_autogen/timestamp	a7b4fe800d37526c
+14	194	6791316978213249	E:/Works/QT(Beginner)/build-qt6cb-9-5-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/qt6cb-9-5_autogen/mocs_compilation.cpp	a7b4fe800d37526c
+202	1327	6791316989545134	CMakeFiles/qt6cb-9-5.dir/main.cpp.obj	f676002b87795002
+1327	1476	6791316991008978	qt6cb-9-5.exe	fb126e28dde3f2e

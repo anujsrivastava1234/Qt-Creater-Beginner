@@ -1,0 +1,10 @@
+# ninja log v5
+1	1310	6793849470319008	qt6cb-12-6_autogen/timestamp	7bb3a110aa4fc00a
+1	1310	6793849470319008	qt6cb-12-6_autogen/mocs_compilation.cpp	7bb3a110aa4fc00a
+1	1310	6793849470319008	E:/Works/QT(Beginner)/build-qt6cb-12-6-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/qt6cb-12-6_autogen/timestamp	7bb3a110aa4fc00a
+1	1310	6793849470319008	E:/Works/QT(Beginner)/build-qt6cb-12-6-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/qt6cb-12-6_autogen/mocs_compilation.cpp	7bb3a110aa4fc00a
+1324	1619	6793849474804873	CMakeFiles/qt6cb-12-6.dir/dog.cpp.obj	9d28fa68fc8de4e6
+1314	3875	6793849497665912	CMakeFiles/qt6cb-12-6.dir/qt6cb-12-6_autogen/mocs_compilation.cpp.obj	af97c4e44753020d
+1319	3909	6793849498005183	CMakeFiles/qt6cb-12-6.dir/racecar.cpp.obj	a66b852fe4510647
+1316	3945	6793849498357042	CMakeFiles/qt6cb-12-6.dir/car.cpp.obj	2f61c6b721633715
+1322	3968	6793849498594030	CMakeFiles/qt6cb-12-6.dir/feline.cpp.obj	16a9f2395fdc2f06

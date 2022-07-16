@@ -1,0 +1,23 @@
+# ninja log v5
+2	1554	6791359899566384	qt6cb-10-4_autogen/timestamp	c5ae4894738bcabf
+2	1554	6791359899566384	qt6cb-10-4_autogen/mocs_compilation.cpp	c5ae4894738bcabf
+2	1554	6791359899566384	E:/Works/QT(Beginner)/build-qt6cb-10-4-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/qt6cb-10-4_autogen/timestamp	c5ae4894738bcabf
+2	1554	6791359899566384	E:/Works/QT(Beginner)/build-qt6cb-10-4-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/qt6cb-10-4_autogen/mocs_compilation.cpp	c5ae4894738bcabf
+1555	4227	6791359928685188	CMakeFiles/qt6cb-10-4.dir/main.cpp.obj	d39cb593db2c7db6
+1567	4283	6791359929303389	CMakeFiles/qt6cb-10-4.dir/animal.cpp.obj	cbf1751262b465f6
+1559	4305	6791359929519918	CMakeFiles/qt6cb-10-4.dir/qt6cb-10-4_autogen/mocs_compilation.cpp.obj	74e371397f94bf03
+1563	4375	6791359930230241	CMakeFiles/qt6cb-10-4.dir/test.cpp.obj	867a12a5ec54df83
+4376	4610	6791359932513714	qt6cb-10-4.exe	acb3aed9d6a1684a
+27	448	6791360138520763	qt6cb-10-4_autogen/timestamp	c5ae4894738bcabf
+27	448	6791360138520763	qt6cb-10-4_autogen/mocs_compilation.cpp	c5ae4894738bcabf
+27	448	6791360138520763	E:/Works/QT(Beginner)/build-qt6cb-10-4-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/qt6cb-10-4_autogen/timestamp	c5ae4894738bcabf
+27	448	6791360138520763	E:/Works/QT(Beginner)/build-qt6cb-10-4-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/qt6cb-10-4_autogen/mocs_compilation.cpp	c5ae4894738bcabf
+463	2491	6791360159007634	CMakeFiles/qt6cb-10-4.dir/main.cpp.obj	d39cb593db2c7db6
+2492	2748	6791360161631359	qt6cb-10-4.exe	acb3aed9d6a1684a
+17	305	6791360474977079	qt6cb-10-4_autogen/timestamp	c5ae4894738bcabf
+17	305	6791360474977079	qt6cb-10-4_autogen/mocs_compilation.cpp	c5ae4894738bcabf
+17	305	6791360474977079	E:/Works/QT(Beginner)/build-qt6cb-10-4-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/qt6cb-10-4_autogen/timestamp	c5ae4894738bcabf
+17	305	6791360474977079	E:/Works/QT(Beginner)/build-qt6cb-10-4-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/qt6cb-10-4_autogen/mocs_compilation.cpp	c5ae4894738bcabf
+314	2100	6791360492911566	CMakeFiles/qt6cb-10-4.dir/animal.cpp.obj	cbf1751262b465f6
+317	2232	6791360494250459	CMakeFiles/qt6cb-10-4.dir/test.cpp.obj	867a12a5ec54df83
+2233	2506	6791360496938140	qt6cb-10-4.exe	acb3aed9d6a1684a

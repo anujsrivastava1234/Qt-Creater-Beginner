@@ -1,0 +1,8 @@
+# ninja log v5
+1	193	6794214388844119	qt6cb-13-6_autogen/timestamp	1052acb0d72d89e8
+1	193	6794214388844119	qt6cb-13-6_autogen/mocs_compilation.cpp	1052acb0d72d89e8
+1	193	6794214388844119	E:/Works/QT(Beginner)/build-qt6cb-13-6-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/qt6cb-13-6_autogen/timestamp	1052acb0d72d89e8
+1	193	6794214388844119	E:/Works/QT(Beginner)/build-qt6cb-13-6-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/qt6cb-13-6_autogen/mocs_compilation.cpp	1052acb0d72d89e8
+193	256	6794214390049921	CMakeFiles/qt6cb-13-6.dir/qt6cb-13-6_autogen/mocs_compilation.cpp.obj	697eb8d7bf813835
+195	1429	6794214401748664	CMakeFiles/qt6cb-13-6.dir/main.cpp.obj	b557a22895d78c4d
+1433	1572	6794214403166186	qt6cb-13-6.exe	f58666423e59de9b

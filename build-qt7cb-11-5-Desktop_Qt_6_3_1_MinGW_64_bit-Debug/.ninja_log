@@ -1,0 +1,26 @@
+# ninja log v5
+2	2084	6792435395847035	qt7cb-11-5_autogen/timestamp	b7929c1b97d2f01b
+2	2084	6792435395847035	qt7cb-11-5_autogen/mocs_compilation.cpp	b7929c1b97d2f01b
+2	2084	6792435395847035	E:/Works/QT(Beginner)/build-qt7cb-11-5-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/qt7cb-11-5_autogen/timestamp	b7929c1b97d2f01b
+2	2084	6792435395847035	E:/Works/QT(Beginner)/build-qt7cb-11-5-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/qt7cb-11-5_autogen/mocs_compilation.cpp	b7929c1b97d2f01b
+2090	6615	6792435444289058	CMakeFiles/qt7cb-11-5.dir/qt7cb-11-5_autogen/mocs_compilation.cpp.obj	db9f7d1975526d3a
+2085	6622	6792435444327173	CMakeFiles/qt7cb-11-5.dir/main.cpp.obj	9aaf6e33563cd103
+2095	6665	6792435444654525	CMakeFiles/qt7cb-11-5.dir/dog.cpp.obj	76900aa9cc41ba4d
+2100	6668	6792435444678069	CMakeFiles/qt7cb-11-5.dir/owner.cpp.obj	5cf7b343fec9cbd5
+6669	7083	6792435449025306	qt7cb-11-5.exe	3645b6aa7c018142
+10	200	6792437575314634	qt7cb-11-5_autogen/timestamp	b7929c1b97d2f01b
+10	200	6792437575314634	qt7cb-11-5_autogen/mocs_compilation.cpp	b7929c1b97d2f01b
+10	200	6792437575314634	E:/Works/QT(Beginner)/build-qt7cb-11-5-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/qt7cb-11-5_autogen/timestamp	b7929c1b97d2f01b
+10	200	6792437575314634	E:/Works/QT(Beginner)/build-qt7cb-11-5-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/qt7cb-11-5_autogen/mocs_compilation.cpp	b7929c1b97d2f01b
+207	1515	6792437588476297	CMakeFiles/qt7cb-11-5.dir/main.cpp.obj	9aaf6e33563cd103
+1516	1684	6792437590111669	qt7cb-11-5.exe	3645b6aa7c018142
+20	427	6792438100054305	qt7cb-11-5_autogen/timestamp	b7929c1b97d2f01b
+20	427	6792438100054305	qt7cb-11-5_autogen/mocs_compilation.cpp	b7929c1b97d2f01b
+20	427	6792438100054305	E:/Works/QT(Beginner)/build-qt7cb-11-5-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/qt7cb-11-5_autogen/timestamp	b7929c1b97d2f01b
+20	427	6792438100054305	E:/Works/QT(Beginner)/build-qt7cb-11-5-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/qt7cb-11-5_autogen/mocs_compilation.cpp	b7929c1b97d2f01b
+11	262	6792438166483195	qt7cb-11-5_autogen/timestamp	b7929c1b97d2f01b
+11	262	6792438166483195	qt7cb-11-5_autogen/mocs_compilation.cpp	b7929c1b97d2f01b
+11	262	6792438166483195	E:/Works/QT(Beginner)/build-qt7cb-11-5-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/qt7cb-11-5_autogen/timestamp	b7929c1b97d2f01b
+11	262	6792438166483195	E:/Works/QT(Beginner)/build-qt7cb-11-5-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/qt7cb-11-5_autogen/mocs_compilation.cpp	b7929c1b97d2f01b
+274	2898	6792438192880666	CMakeFiles/qt7cb-11-5.dir/main.cpp.obj	9aaf6e33563cd103
+2899	3137	6792438195210819	qt7cb-11-5.exe	3645b6aa7c018142

@@ -1,0 +1,5 @@
+E:/Works/QT(Beginner)/build-qt6cb-10-4-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/CMakeFiles/qt6cb-10-4.dir
+E:/Works/QT(Beginner)/build-qt6cb-10-4-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+E:/Works/QT(Beginner)/build-qt6cb-10-4-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+E:/Works/QT(Beginner)/build-qt6cb-10-4-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/CMakeFiles/qt6cb-10-4_autogen_timestamp_deps.dir
+E:/Works/QT(Beginner)/build-qt6cb-10-4-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/CMakeFiles/qt6cb-10-4_autogen.dir

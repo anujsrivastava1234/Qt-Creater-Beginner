@@ -1,0 +1,22 @@
+# ninja log v5
+4	507	6791378024558610	build.ninja	bc5fe2f0aa5a4e71
+1	805	6791378032369447	qt6cb-10-assignment_autogen/timestamp	39359c3dd0cf2825
+1	805	6791378032369447	qt6cb-10-assignment_autogen/mocs_compilation.cpp	39359c3dd0cf2825
+1	805	6791378032369447	E:/Works/QT(Beginner)/build-qt6cb-10-assignment-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/qt6cb-10-assignment_autogen/timestamp	39359c3dd0cf2825
+1	805	6791378032369447	E:/Works/QT(Beginner)/build-qt6cb-10-assignment-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/qt6cb-10-assignment_autogen/mocs_compilation.cpp	39359c3dd0cf2825
+808	3921	6791378064662012	CMakeFiles/qt6cb-10-assignment.dir/calc.cpp.obj	63c79ce7153c0779
+812	4210	6791378067621777	CMakeFiles/qt6cb-10-assignment.dir/main.cpp.obj	a8632614979f2393
+805	4265	6791378068187313	CMakeFiles/qt6cb-10-assignment.dir/qt6cb-10-assignment_autogen/mocs_compilation.cpp.obj	7c9bb5464250402c
+4266	4760	6791378072657269	qt6cb-10-assignment.exe	7c450ad04b0e0bc5
+4	204	6791380089231013	qt6cb-10-assignment_autogen/timestamp	39359c3dd0cf2825
+4	204	6791380089231013	qt6cb-10-assignment_autogen/mocs_compilation.cpp	39359c3dd0cf2825
+4	204	6791380089231013	E:/Works/QT(Beginner)/build-qt6cb-10-assignment-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/qt6cb-10-assignment_autogen/timestamp	39359c3dd0cf2825
+4	204	6791380089231013	E:/Works/QT(Beginner)/build-qt6cb-10-assignment-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/qt6cb-10-assignment_autogen/mocs_compilation.cpp	39359c3dd0cf2825
+213	1911	6791380106287685	CMakeFiles/qt6cb-10-assignment.dir/main.cpp.obj	a8632614979f2393
+1911	2085	6791380107998509	qt6cb-10-assignment.exe	7c450ad04b0e0bc5
+13	251	6791380378003091	qt6cb-10-assignment_autogen/timestamp	39359c3dd0cf2825
+13	251	6791380378003091	qt6cb-10-assignment_autogen/mocs_compilation.cpp	39359c3dd0cf2825
+13	251	6791380378003091	E:/Works/QT(Beginner)/build-qt6cb-10-assignment-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/qt6cb-10-assignment_autogen/timestamp	39359c3dd0cf2825
+13	251	6791380378003091	E:/Works/QT(Beginner)/build-qt6cb-10-assignment-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/qt6cb-10-assignment_autogen/mocs_compilation.cpp	39359c3dd0cf2825
+262	2287	6791380398387625	CMakeFiles/qt6cb-10-assignment.dir/main.cpp.obj	a8632614979f2393
+2287	2498	6791380400452849	qt6cb-10-assignment.exe	7c450ad04b0e0bc5

@@ -1,0 +1,9 @@
+# ninja log v5
+2	1349	6791325478930651	qt6cb-9-assignment_autogen/timestamp	a33d8ccde630dc8b
+2	1349	6791325478930651	qt6cb-9-assignment_autogen/mocs_compilation.cpp	a33d8ccde630dc8b
+2	1349	6791325478930651	E:/Works/QT(Beginner)/build-qt6cb-9-assignment-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/qt6cb-9-assignment_autogen/timestamp	a33d8ccde630dc8b
+2	1349	6791325478930651	E:/Works/QT(Beginner)/build-qt6cb-9-assignment-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/qt6cb-9-assignment_autogen/mocs_compilation.cpp	a33d8ccde630dc8b
+1354	3449	6791325502151257	CMakeFiles/qt6cb-9-assignment.dir/age.cpp.obj	feabdbc67fe4d124
+1350	3452	6791325502155879	CMakeFiles/qt6cb-9-assignment.dir/qt6cb-9-assignment_autogen/mocs_compilation.cpp.obj	3fc1ee21068c72fa
+1356	3471	6791325502370912	CMakeFiles/qt6cb-9-assignment.dir/main.cpp.obj	efc653342bfea385
+3471	3643	6791325504066049	qt6cb-9-assignment.exe	2d75d24d640869b
